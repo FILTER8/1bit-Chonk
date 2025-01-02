@@ -4,13 +4,15 @@ Welcome to the 1Bit Chonks, a deriviate project of the Chonks. All art layers, c
 
 1Bit Chonks is a 1Bit remix version of the Chonks created by backseats_eth & marka_eth. Like the original Chonks their 1Bit version is also saved fully saved on-chain on base, making them immuntal as long as the Base excists.
 
+1Bit Chonks Font is fun project to showcase what is possible with 1Bit Pixel Art and further adoption to other mediums. 
+
 
 ## License CC0
 
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
 ## Next Steps
-1bit Chonks is an open-source framework about pushing the boundaries of creativity and community in the onchain space. Join us, build something amazing, and contribute to a decentralized, open future for all. 
+1bit Chonks is an open-source framework about pushing the boundaries of creativity and community in the onchain space. Join us, build something amazing, and contribute to a decentralized, open future for all. Have Fun. 
 
 
 ## Important Links
