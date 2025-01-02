@@ -10,7 +10,7 @@ Welcome to the 1Bit Chonks, a deriviate project of the Chonks. All art layers, c
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
 ## Next Steps
-1bit Chonks and  open-source framework is all about pushing the boundaries of creativity and community in the onchain space. Join us, build something amazing, and contribute to a decentralized, open future for all. 
+1bit Chonks is an open-source framework about pushing the boundaries of creativity and community in the onchain space. Join us, build something amazing, and contribute to a decentralized, open future for all. 
 
 
 ## Important Links
@@ -27,4 +27,4 @@ Chonks
 * Follow Chonks on Twitter - https://x.com/chonksxyz
 * Chonks NFT Collection - https://opensea.io/collection/chonks
 
-https://github.com/user-attachments/assets/b46ba7e9-2af5-4fe6-a906-c2cf9201230f
+![1bit chonks collection](https://github.com/user-attachments/assets/b46ba7e9-2af5-4fe6-a906-c2cf9201230f)
